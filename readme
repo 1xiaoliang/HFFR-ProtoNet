@@ -1,0 +1,13 @@
+基础卷积模型+特征增强模块
+特征增强模块
+1.局部注意力机制 即区分前景和背景 
+
+CUB_200_2011
+1.使用120个类别进行预训练 
+2.然后将剩余80个类别按照7:3划分元学习训练集与测试集 进行元学习和评估
+
+
+模型名字
+Hierarchical Feature Fusion Refinement Prototype Network(HFFR-ProtoNet)
+
+https://zhuanlan.zhihu.com/p/151311431
