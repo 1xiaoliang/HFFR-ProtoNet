@@ -1,6 +1,5 @@
-This is the official implementation of Hierarchical Feature Fusion Refinement Prototype Network (HFFR-ProtoNet).
 # HFFR-ProtoNet
-
+This is the official implementation of Hierarchical Feature Fusion Refinement Prototype Network (HFFR-ProtoNet).
 ## Installation
 
 ### Prerequisites
